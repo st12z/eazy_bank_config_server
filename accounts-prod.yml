@@ -2,7 +2,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "Welcom to production"
+  message: "Welcom to production api"
   contactDetails:
     name: "{cipher}508b8df90595aae1934d7b243fd8e09dddd82951be726b67e0363e20b0197382aadb6f5410d2b773b851abc7c67e6288"
   onCallSupport:
