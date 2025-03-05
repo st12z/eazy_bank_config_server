@@ -1,0 +1,9 @@
+
+build:
+  version: "2.0"
+accounts:
+  message: "Welcom to qa"
+  contactDetails:
+    name: "Jonhn Doe - QA"
+  onCallSupport:
+    - 1234

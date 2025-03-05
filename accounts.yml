@@ -1,0 +1,12 @@
+
+
+server:
+  port: 8080
+build:
+  version: "3.0"
+accounts:
+  message: "Welcom to"
+  contactDetails:
+    name: "Jonhn Doe - Developer"
+  onCallSupport:
+    - 123

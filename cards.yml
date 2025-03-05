@@ -1,0 +1,14 @@
+
+server:
+  port: 9000
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to EazyBank cards related DEV APIs "
+  contactDetails:
+    name: "Sandra Harald - DEV"
+    email: "sandra@eazybank.com"
+  onCallSupport:
+    - (617) 432-2356
+    - (936) 564-8721

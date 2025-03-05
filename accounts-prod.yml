@@ -1,0 +1,9 @@
+
+build:
+  version: "1.0"
+accounts:
+  message: "Welcom to prod"
+  contactDetails:
+    name: "Jonhn Doe - PROD"
+  onCallSupport:
+    - 12345
