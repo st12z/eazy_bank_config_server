@@ -2,7 +2,7 @@
 build:
   version: "2.0"
 accounts:
-  message: "Welcom to qa"
+  message: "Welcom to QA"
   contactDetails:
     name: "Jonhn Doe - QA"
   onCallSupport:

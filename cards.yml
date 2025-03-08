@@ -1,6 +1,5 @@
 
-server:
-  port: 9000
+
 build:
   version: "1.0"
 
