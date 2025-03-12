@@ -1,11 +1,11 @@
-server:
-  port: 8072
+
 
 eureka:
+  # dang ki len eureka-server voi ip vi localsystem ko co dns mapping
   instance:
-    preferIpAddress: true
+    prefer-ip-address: true
   client:
-    registerWithEureka: true
     fetchRegistry: true
+    registerWithEureka: true
     serviceUrl:
-      defaultZone: "http://localhost:8070/eureka/"
+      defaultZone: http://localhost:8070/eureka/
